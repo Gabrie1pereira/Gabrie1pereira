@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Pereira!
 
-🎯 **Analista de Sistemas e Analista de Dados**, apaixonado por tecnologia, automação e soluções inteligentes. Atualmente trabalhando na Gol Linhas Aéreas Inteligentes, estou focado em desenvolver soluções eficientes com base em dados e integrar sistemas de maneira otimizada.
+🎯 **Analista de Sistemas e Analista de Dados**, apaixonado por tecnologia, automação e soluções inteligentes. Atualmente estou focado em desenvolver soluções eficientes com base em dados e integrar sistemas de maneira otimizada.
 
 🌍 **O que eu faço**:
 - Análise de dados e visualizações (Python, SQL, Power BI)
