@@ -26,6 +26,4 @@
 
 ---
 
-📊 **Estatísticas do GitHub**:
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrie1pereira&show_icons=true&theme=dark)
 
