@@ -2,10 +2,12 @@
 
 🎯 **Analista de Sistemas e Analista de Dados**, apaixonado por tecnologia, automação e soluções inteligentes. Atualmente estou focado em desenvolver soluções eficientes com base em dados e integrar sistemas de maneira otimizada.
 
-🌍 **O que eu faço**:
-- Análise de dados e visualizações (Python, SQL, Power BI)
-- Desenvolvimento de sistemas e automações (Python, APIs)
-- Desenvolvimento web (WordPress, HTML/CSS, JS)
+Data Analyst | Power BI | SQL | Python
+
+Projects focused on:
+- Data analysis
+- Business intelligence
+- Dashboard development
 
 💻 **Tecnologias que uso**:
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
